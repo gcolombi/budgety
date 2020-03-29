@@ -109,10 +109,8 @@ body {
 }
 
 .legal{
-    position: absolute;
-    top: 325px;
-    left: 50%;
-    transform: translate(-50%);
+    margin-top: 20px;
+    text-align: center;
 }
 
 .legal-paragraph{
